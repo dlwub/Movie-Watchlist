@@ -5,5 +5,5 @@ and displays search results.
 The 'add to watchlist' button ![](/images/plussign.png) saves that data to local storage.\
 The watchlist.html page loads and displays data from local storage.\
 The ![](/images/minussign.png) button deletes the movie from local storage.\
-![](https://github.com/dlwub/Movie-Watchlist/blob/main/images/Movie%20Watchlist%20.png)
+![](https://github.com/dlwub/Movie-Watchlist/blob/main/images/Movie%20Watchlist%20.png)\
 Screenshot of the Movie Watchlist app.
