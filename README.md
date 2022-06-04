@@ -1,4 +1,4 @@
-				** Movie Watchlist
+				#Movie Watchlist
 Movie Watchlist has two HTML pages: index.html and watchlist.html.\
 The search button on the index page calls the OMDB API with the title searched for\
 and displays search results.
